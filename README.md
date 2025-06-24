@@ -14,14 +14,15 @@ A free plugin for Wordpress that lets you collect emails and send newsletters to
 
 🔹 Easy setup – works out of the box
 
+
 **💡 Perfect for:**
 Personal blogs
 
-Small businesses
+🔹 mall businesses
 
-Creators building a subscriber list
+🔹 Creators building a subscriber list
 
-Anyone looking for a free WordPress newsletter plugin
+🔹 Anyone looking for a free WordPress newsletter plugin
 
 
 Created by Basis IT @ http://basisit.net
