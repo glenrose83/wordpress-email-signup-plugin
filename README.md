@@ -15,7 +15,7 @@ A free plugin for Wordpress that lets you collect emails and send newsletters to
 🔹 Easy setup – works out of the box
 
 
-
+------------------------------------------------------------
 
 **💡 Perfect for:**
 Personal blogs
