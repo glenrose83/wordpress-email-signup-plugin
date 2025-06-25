@@ -27,4 +27,4 @@ Personal blogs
 🔹 Anyone looking for a free WordPress newsletter plugin
 
 
-Created by Basis IT @ http://basisit.net
+Created by Basis IT @ https://basisit.net/index.php/2025/06/24/get-my-free-email-sign-plugin-for-wordpress/
